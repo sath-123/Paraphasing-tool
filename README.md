@@ -1,5 +1,5 @@
 # paraphasing for Hindi and Telugu
-## models used
+## Models used
 1. Lstm
 1. Encoder-Decoder Lstm
 2. Lstm with attention
