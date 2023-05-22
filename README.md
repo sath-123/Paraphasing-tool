@@ -27,7 +27,7 @@
 * GRU ATTENTION > LSTM ATTENTION > ENCODER-DECODER ATTENTION > LSTM
 
 ### MACHINE TRANSLATION for Telugu language:
-* Machine translation
+* Machine Translation
 * Back Translation
 
 LINK FOR PRE-TRAINED MODELS:
