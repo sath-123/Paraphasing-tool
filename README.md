@@ -30,5 +30,4 @@
 * Machine Translation
 * Back Translation
 
-LINK FOR PRE-TRAINED MODELS:
-https://drive.google.com/drive/folders/15-GxkDwWaTxgzGy573OBhU27Nzlyk2Mu?usp=sharing
+
